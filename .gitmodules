@@ -1,0 +1,6 @@
+[submodule "vietnam_tours"]
+	path = vietnam_tours
+	url = https://github.com/NhungNguyen04/vietnam_tours
+[submodule "front-end-vonder"]
+	path = front-end-vonder
+	url = https://github.com/dngan0365/front-end-vonder
