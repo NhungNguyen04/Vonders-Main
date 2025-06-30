@@ -2,10 +2,11 @@
 ![Home Page Screenshot](./public/Screenshot_13-6-2025_131045_front-end-vonder.vercel.app.jpeg)
 **Vonders** is a web-based platform to explore Vietnam’s most iconic destinations, cultural events, and travel tours. It supports different user roles with rich travel features and community interaction in English and Vietnamesse.
 ---
-**Website:** https://front-end-vonder.vercel.app
-**Frontend repo:** https://github.com/dngan0365/front-end-vonder
-**Backend repo:** https://github.com/NhungNguyen04/vietnam_tours
-**Admin account:** Email: admin@email.com, Password: 123456
+- **Website:** https://front-end-vonder.vercel.app 
+- **Frontend repo:** https://github.com/dngan0365/front-end-vonder
+- **Backend repo:** https://github.com/NhungNguyen04/vietnam_tours
+---
+For **Admin account:** Email: admin@email.com, Password: 123456
 ## ⚙️ Technology Stack
 
 - **Frontend:** Next.js (React-based)
