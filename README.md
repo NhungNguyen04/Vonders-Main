@@ -5,6 +5,7 @@
 **Website:** https://front-end-vonder.vercel.app
 **Frontend repo:** https://github.com/dngan0365/front-end-vonder
 **Backend repo:** https://github.com/NhungNguyen04/vietnam_tours
+**Admin account:** Email: admin@email.com, Password: 123456
 ## ⚙️ Technology Stack
 
 - **Frontend:** Next.js (React-based)
